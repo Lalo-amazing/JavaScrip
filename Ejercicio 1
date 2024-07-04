@@ -1,5 +1,7 @@
-app.js
-img
-index.html
-style.css
+/*Muestra una alerta con el mensaje 
+    "¡Bienvenida y bienvenido a nuestro sitio web!"
+Todo esto en el archivo app.js
+*/
+alert("¡Bienvenida y bienvenido a nuestro sitio web!");
+
 
